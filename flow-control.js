@@ -10,8 +10,6 @@ function teenager(age) {
     return "You are not a teenager";}
 }
 
-function yourAge(age) 
-
 function ternaryTeenager(age) {
 
 }
