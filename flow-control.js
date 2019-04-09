@@ -25,6 +25,12 @@ function ageChecker(age) {
 
 
 function ternaryTeenager(age) {
+  if(userIsYoungerThan21) {
+    serveGrapeJuice();
+  }
+  else {
+    serveWine();
+}
 
 }
 
