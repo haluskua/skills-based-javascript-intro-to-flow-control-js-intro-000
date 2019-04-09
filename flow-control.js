@@ -23,7 +23,7 @@ function ageChecker(age) {
     }
 }
 
-
+// not too sure here,, wondering how the 'if' statement is missing
 function ternaryTeenager(age) {
   return (age >= 13 && age <= 19) ? "You are a teenager" : "You are not a teenager"
 }
