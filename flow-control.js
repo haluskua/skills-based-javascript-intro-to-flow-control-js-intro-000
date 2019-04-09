@@ -30,11 +30,10 @@ function ternaryTeenager(age) {
 
 // Switch statement
 function switchAge(age) {
-  switch(shr) {
+  switch(age) {
     case 13:
       return "You are a teenager!"
-    default:
-      return "I don't recognize that mood."
+      break;
   }
  
   console.log("Let us know how you're feeling tomorrow!")
