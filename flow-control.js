@@ -24,14 +24,12 @@ function ageChecker(age) {
 }
 
 
-function ternaryTeenager(age) {
-  if(userIsYoungerThan21) {
-    serveGrapeJuice();
+function teenager(age) {
+  if (age >= 13 && age <= 19) {
+  return "You are a teenager!";
+  } else {
+    return "You are not a teenager";
   }
-  else {
-    serveWine();
-}
-
 }
 
 function switchAge(age) {
