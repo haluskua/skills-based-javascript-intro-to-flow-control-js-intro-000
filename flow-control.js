@@ -30,5 +30,6 @@ function ternaryTeenager(age) {
 
 // Switch statement
 function switchAge(age) {
+  switch(age)
 
 }
