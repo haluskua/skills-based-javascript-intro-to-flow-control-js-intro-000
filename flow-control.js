@@ -56,5 +56,5 @@ function switchAge(age) {
       return "You have an age"
   }
  
-    return "Let us know how you're feeling tomorrow!"
+    return "You are a teenager"
 }
