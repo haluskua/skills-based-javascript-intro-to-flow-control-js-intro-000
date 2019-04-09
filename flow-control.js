@@ -6,8 +6,6 @@ function basicTeenager(age) {
     "You\'re not a teenager"
 }
 
-console.log(basicTeenager)
-
 function teenager(age) {
 
 }
