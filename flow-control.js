@@ -30,6 +30,8 @@ function ternaryTeenager(age) {
 
 // Switch statement
 function switchAge(age) {
-  switch(age)
-
+  switch(age) {
+    case (age = 13)
+      break; 
+  }
 }
